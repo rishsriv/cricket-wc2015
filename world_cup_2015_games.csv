@@ -1,0 +1,47 @@
+,team1_name,team2_name,team1_id,team2_id,ground_name,ground_id,match_id,date
+69,New Zealand,South Africa,5,3,Auckland,58792,656491,2015-03-24 00:00:00
+68,New Zealand,West Indies,5,4,Wellington,58899,656489,2015-03-21 00:00:00
+67,Australia,Pakistan,2,7,Adelaide,56293,656487,2015-03-20 00:00:00
+66,Bangladesh,India,25,6,Melbourne,56441,656485,2015-03-19 00:00:00
+65,South Africa,Sri Lanka,3,8,Sydney,56544,656483,2015-03-18 00:00:00
+64,Ireland,Pakistan,29,7,Adelaide,56293,656481,2015-03-15 00:00:00
+63,U.A.E.,West Indies,27,4,Napier,58857,656479,2015-03-15 00:00:00
+61,India,Zimbabwe,6,9,Auckland,58792,656475,2015-03-14 00:00:00
+62,Australia,Scotland,2,30,Hobart,56407,656477,2015-03-14 00:00:00
+60,Afghanistan,England,40,1,Sydney,56544,656473,2015-03-13 00:00:00
+59,New Zealand,Bangladesh,5,25,Hamilton,58831,656471,2015-03-13 00:00:00
+58,South Africa,U.A.E.,3,27,Wellington,58899,656469,2015-03-12 00:00:00
+57,Scotland,Sri Lanka,30,8,Hobart,56407,656467,2015-03-11 00:00:00
+56,India,Ireland,6,29,Hamilton,58831,656465,2015-03-10 00:00:00
+55,Bangladesh,England,25,1,Adelaide,56293,656463,2015-03-09 00:00:00
+53,New Zealand,Afghanistan,5,40,Napier,58857,656459,2015-03-08 00:00:00
+54,Australia,Sri Lanka,2,8,Sydney,56544,656461,2015-03-08 00:00:00
+52,Ireland,Zimbabwe,29,9,Hobart,56407,656457,2015-03-07 00:00:00
+51,Pakistan,South Africa,7,3,Auckland,58792,656455,2015-03-07 00:00:00
+50,India,West Indies,6,4,Perth,56490,656453,2015-03-06 00:00:00
+49,Bangladesh,Scotland,25,30,Nelson,424917,656451,2015-03-05 00:00:00
+47,Pakistan,U.A.E.,7,27,Napier,58857,656447,2015-03-04 00:00:00
+48,Australia,Afghanistan,2,40,Perth,56490,656449,2015-03-04 00:00:00
+46,Ireland,South Africa,29,3,Canberra,56370,656445,2015-03-03 00:00:00
+45,Pakistan,Zimbabwe,7,9,Brisbane,56336,656443,2015-03-01 00:00:00
+44,England,Sri Lanka,1,8,Wellington,58899,656441,2015-03-01 00:00:00
+43,India,U.A.E.,6,27,Perth,56490,656439,2015-02-28 00:00:00
+42,New Zealand,Australia,5,2,Auckland,58792,656437,2015-02-28 00:00:00
+41,South Africa,West Indies,3,4,Sydney,56544,656435,2015-02-27 00:00:00
+39,Afghanistan,Scotland,40,30,Dunedin,58827,656431,2015-02-26 00:00:00
+40,Bangladesh,Sri Lanka,25,8,Melbourne,56441,656433,2015-02-26 00:00:00
+38,Ireland,U.A.E.,29,27,Brisbane,56336,656429,2015-02-25 00:00:00
+37,West Indies,Zimbabwe,4,9,Canberra,56370,656427,2015-02-24 00:00:00
+36,England,Scotland,1,30,Christchurch,58810,656425,2015-02-23 00:00:00
+35,India,South Africa,6,3,Melbourne,56441,656423,2015-02-22 00:00:00
+34,Afghanistan,Sri Lanka,40,8,Dunedin,58827,656421,2015-02-22 00:00:00
+33,Pakistan,West Indies,7,4,Christchurch,58810,656417,2015-02-21 00:00:00
+32,New Zealand,England,5,1,Wellington,58899,656415,2015-02-20 00:00:00
+31,U.A.E.,Zimbabwe,27,9,Nelson,424917,656413,2015-02-19 00:00:00
+30,Afghanistan,Bangladesh,40,25,Canberra,56370,656411,2015-02-18 00:00:00
+29,New Zealand,Scotland,5,30,Dunedin,58827,656409,2015-02-17 00:00:00
+28,Ireland,West Indies,29,4,Nelson,424917,656407,2015-02-16 00:00:00
+27,India,Pakistan,6,7,Adelaide,56293,656405,2015-02-15 00:00:00
+26,South Africa,Zimbabwe,3,9,Hamilton,58831,656403,2015-02-15 00:00:00
+25,Australia,England,2,1,Melbourne,56441,656401,2015-02-14 00:00:00
+24,New Zealand,Sri Lanka,5,8,Christchurch,58810,656399,2015-02-14 00:00:00
